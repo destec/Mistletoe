@@ -31,5 +31,9 @@
   "Role": {
     "dataSource": "db",
     "public": false
+  },
+  "Game": {
+    "dataSource": "mysql-db",
+    "public": true
   }
 }
